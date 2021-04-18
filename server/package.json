@@ -1,0 +1,18 @@
+{
+  "name": "cicciodrop-server",
+  "version": "1.0.0",
+  "description": "Cicciodrop Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cicciodrop"
+  ],
+  "author": "@cicciosgamino",
+  "license": "ISC",
+  "dependencies": {
+    "ua-parser-js": "^0.7.28",
+    "ws": "^7.4.4"
+  }
+}
